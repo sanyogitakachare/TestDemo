@@ -3,6 +3,9 @@ package Assinment_2;
 public class AssignLocalVeriable {
 	public static void main (String []args) {
 		int a = 50;
+                 int b=30;
+                 int c=10;
+
 	}
 
 }
